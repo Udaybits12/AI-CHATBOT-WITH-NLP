@@ -55,11 +55,10 @@ It uses **NLTK (Natural Language Toolkit)** and **Machine Learning techniques (T
 ---
 
 ### Step 2: Download NLTK Data (First Time Only)
-python
-import nltk
-nltk.download('punkt')
-nltk.download('punkt_tab')
-nltk.download('wordnet')
+* import nltk
+* nltk.download('punkt')
+* nltk.download('punkt_tab')
+* nltk.download('wordnet')
 
 ---
 
